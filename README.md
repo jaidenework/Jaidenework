@@ -4,8 +4,10 @@
 - <b> Actrive directory lab</b>
   - [Active directory home lab in microsoft Azure](https://github.com/joshmadakor1/Algorithms-Practice)
 
-<h2> Certifications
+<h2> -Certifications</h2>
 
+- [CompTIA A+](
+- [CompTIA Security+ 701](
 <h2> 🤳 Connect with me:</h2>
 
 
