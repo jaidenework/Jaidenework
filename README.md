@@ -2,7 +2,7 @@
 <h2>👨‍💻 IT specialist Projects:</h2>
 
 - <b> Actrive directory lab</b>
-  - [Active directory home lab in microsoft Azure](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active directory home lab in Microsoft Azure](https://github.com/jaidenework/active-directory-lab-/blob/main/README.md)
 
 <h2> -Certifications</h2>
 
