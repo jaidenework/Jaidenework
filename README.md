@@ -6,7 +6,7 @@
 
 <h2> -Certifications</h2>
 
-- [CompTIA A+](
+- [CompTIA A+](https://github.com/jaidenework/Jaidenework/blob/203e276247b4d6530ff1a8ac21fe56bd1e4140ec/CompTIA%20A%2B%20ce%20certificate.pdf)
 - [CompTIA Security+ 701](
 <h2> 🤳 Connect with me:</h2>
 
