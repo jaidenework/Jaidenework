@@ -1,8 +1,11 @@
 <h1>Hi, I'm Jaiden Ennett! 
 <h2>👨‍💻 IT specialist Projects:</h2>
 
-- <b> Actrive directory lab</b>
+- <b> Actrive dTirectory lab</b>
   - [Active directory home lab in Microsoft Azure](https://github.com/jaidenework/active-directory-lab-/blob/main/README.md)
+ 
+- <b> Spiceworks Ticket Documentation Home Lab
+  - [Spiceworks Help Desk Ticketing Home lab](https://github.com/jaidenework/Spiceworks-Help-Desk-Ticketing-System-Implementation)
 
 <h2> Certifications</h2>
 
